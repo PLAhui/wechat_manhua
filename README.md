@@ -8,4 +8,6 @@
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1031/115640_7cfc228d_2313788.jpeg "任务记录页.jpg")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1031/115715_23cbab7e_2313788.png "意见反馈.png")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/1031/115802_286f6696_2313788.jpeg "漫画管理.jpg")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2020/1031/122423_f17921de_2313788.jpeg "微信图片_20201031082115.jpg")
 部署搭建上线，详情咨询微信：DP6683007 QQ：1193447180
